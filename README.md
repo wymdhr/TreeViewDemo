@@ -6,3 +6,7 @@
 &#8195;&#8195;2、VS启动sln工程，配置DevelopmentEditor，Win64，启动项目设置为TreeViewDemo，编译工程;
 
 &#8195;&#8195;3、启动工程，在编辑器内选择Demo关卡，启动游戏即可。
+
+**说明**：
+
+&#8195;&#8195;TreeViewTestData是测试文件夹，与工程无关
